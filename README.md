@@ -1,1 +1,1 @@
-For more details, visit the https://roadmap.sh/projects/blogging-platform-api
+For more details, visit the [Blogging Platform API Project Idea](https://roadmap.sh/projects/blogging-platform-api).
