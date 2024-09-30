@@ -1,0 +1,17 @@
+{
+  "name": "blogging-platform-api",
+  "version": "1.0.0",
+  "description": "create a simple RESTful API with basic CRUD operations for a personal blogging platform.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Salma Yasser",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "morgan": "^1.10.0"
+  }
+}
